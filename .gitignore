@@ -28,3 +28,6 @@ config/
 
 # Ignorar arquivos dentro da pasta imagens
 imagens/*
+
+
+.env
